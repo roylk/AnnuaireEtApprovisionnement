@@ -82,7 +82,7 @@ Veuillez suivre les indications suivantes pour acceder au contenu du javadoc
 2) ouvrir le sous dossier "doc" qui s'y trouve
 2) Double cliquez sur 'index.html'.
 
-et vous pouvez intuitivement naviguer entre les pages
+et vous pouvez intuitivement et facilement naviguer entre les pages
 
 	
 	************************************
